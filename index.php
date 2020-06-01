@@ -1,0 +1,1 @@
+<?php header( 'Location: /mockup_home.html' ) ; ?>
